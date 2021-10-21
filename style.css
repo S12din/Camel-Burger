@@ -1,0 +1,12 @@
+.btn{
+    background-color:#f64b3c;
+    border-radius: 40px;
+    border: none;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 700;
+    padding: 20px 70px;
+    text-transform: uppercase;
+    
+}
